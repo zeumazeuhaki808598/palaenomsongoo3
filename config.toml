@@ -1,0 +1,4 @@
+baseURL = "https://sanwoo-quotes.vercel.app"
+languageCode = "en-us"
+title = "Idea Quotes USA "
+theme = "hugo-theme-minos"
